@@ -1,0 +1,5 @@
+sudo apt-get install qtbase5-dev
+sudo apt-get install libqt5x11extras5-dev libqt5help5 qttools5-dev qtxmlpatterns5-dev-tools libqt5svg5-dev
+cd build/
+cmake ../src
+sudo make install
