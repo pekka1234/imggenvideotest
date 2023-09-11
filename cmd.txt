@@ -3,3 +3,5 @@ sudo apt-get install libqt5x11extras5-dev libqt5help5 qttools5-dev qtxmlpatterns
 cd build/
 cmake ../src
 sudo make install
+
+https://www.mediafire.com/file/cxdsgp4vdqfn2oj/M%25C3%25B6rk%25C3%25B6peli_2.2_.zip/file
